@@ -2,11 +2,10 @@
 
 
 
-![学有所承书的封面](Figures/BookCoverpage.jpg)
+![学有所承书的封面](Figures/BookCoverPage.png)
 
 ## 作者：
 ![学有所承作者](Figures/Authors.png)
-
 
 
 
