@@ -1,15 +1,13 @@
 # 学有所承---研究生毕业传承会撷英
 
-
-
-![学有所承书的封面](Figures/BookCoverPage.png)
+<img src="Figures/BookCoverPage.png" alt="学有所承书的封面" width="200"/>
 
 ## 作者：
-![学有所承作者](Figures/Authors.png)
+<img src="Figures/Authors.png" alt="学有所承书的作者" width="200"/>
 
 
 
-##内容提要
+## 内容提要
 
 ===============================
 
